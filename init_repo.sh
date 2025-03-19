@@ -13,11 +13,6 @@ fi
 LOCAL_DIR = $1
 REMOTE_REPO = $2
 
-#Zapit login ta parol
-
-read -p "Vvedit vash GitHub login: " GITHUB_USER
-read -s -p "Vvedit vash GitHub parol: " GITHUB_TOKEN
-echo ""
 
 #Perexid y vkazaniy katalog
 
