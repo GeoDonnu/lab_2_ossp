@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 #Zapyt shlyaxy do katalogy
