@@ -39,7 +39,7 @@ fi
 git branch -M main
 
 # Спочатку виконати git pull, щоб синхронізувати локальні і віддалені зміни
-git pull origin main --allow-unrelated-histories
+git pull origin main --allow-unrelated-histories --no-rebase
 
 # Відправлення у віддалений репозиторій
 git push -u origin main
