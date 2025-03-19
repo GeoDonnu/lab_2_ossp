@@ -1,33 +1,27 @@
 #!/bin/bash
 
-#Perevirka parametriv
+#perevirka nayavnosti dvox parametriv
 
-if ["$#" -ne 2]; then
-	echo "Pomilka: neobxidno vkazatu dva parametri."
-	echo "Vikoristannya: $0 <shlyax_katalog> <shlyax_repo>"
+if [ "$#" -ne 2]; then
+	echo "Error: neobxidno vkazati dva parametra"
+	echo "Vikorystannya: $0 <katalog> <repository>"
 	exit 1
 fi
 
-#Priyom parametriv
+#Parametri
+LOCAL_DIR=$1
+REMOTE_REPO=$2
 
-LOCAL_DIR = $1
-REMOTE_REPO = $2
+#PEREXID Y KATALOG
 
+cd "$LOCAL_DIR" || {echo "Error: ne vdalosya pereyti do katalogy $LOCAL_DIR"
 
-#Perexid y vkazaniy katalog
-
-cd "$LOCAL_DIR" || {echo "Pomylka: Ne vdalosya pereyti v katalog $LOCAL_DIR "
-
-
-#init repo
-
+#Init git
 git init
 
-#Dodavannya viddalenogo repository
+#Dodavannya repo
 
-git remote add origin "https://$GITHUB_USER:$GITHUB_TOKEN@github.com/REMOTE_REPO.git"
-
-#dodavannya vsix files in repo
+git remote add origin "$REMOTE_REPO"
 
 git add .
 
@@ -35,5 +29,4 @@ git commit -m "Initial commit"
 
 git push -u origin main
 
-echo "Code yspishno zavantazheno y repository"
-
+echo "Code yspishno dodano do repository"
