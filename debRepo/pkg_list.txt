@@ -1,0 +1,1064 @@
+Sorting...
+Full Text Search...
+akonadi-backend-mysql/noble,noble 4:23.08.5-0ubuntu3 all
+  MySQL storage backend for Akonadi
+
+asterisk-mysql/noble 1:20.6.0~dfsg+~cs6.13.40431414-2build5 amd64
+  MySQL database protocol support for the Asterisk PBX
+
+audiolink/noble,noble 0.05-4 all
+  makes managing and searching for music easier
+
+automysqlbackup/noble,noble 2.6+debian.4-4 all
+  daily, weekly and monthly backup for your MySQL database
+
+autopostgresqlbackup/noble,noble 1.1-1.1 all
+  Automated tool to make periodic backups of PostgreSQL databases
+
+backup-manager/noble,noble 0.7.14-1.3 all
+  command-line backup tool
+
+backupninja/noble,noble 1.2.2-1 all
+  lightweight, extensible meta-backup system
+
+bacula-common-mysql/noble 13.0.4-1build3 amd64
+  network backup service - MySQL common files
+
+bacula-director-mysql/noble,noble 13.0.4-1build3 all
+  network backup service - MySQL storage for Director
+
+cacti/noble-updates,noble-updates,noble-security,noble-security 1.2.26+ds1-1ubuntu0.1 all
+  web interface for graphing of monitoring systems
+
+cedar-backup3/noble,noble 3.8.1-1 all
+  local and remote backups to CD/DVD media or Amazon S3 storage
+
+cedar-backup3-doc/noble,noble 3.8.1-1 all
+  local and remote backups to CD/DVD media or Amazon S3 storage (documentation)
+
+centreon-plugins/noble,noble 0.0~20230118-1 all
+  Collection of Nagios plugins to monitor OS, services and network devices
+
+changeme/noble,noble 1.2.3-3 all
+  Default credential scanner
+
+cl-qmynd/noble,noble 20180131-1.1 all
+  MySQL Native Driver for Common Lisp
+
+cl-sql-mysql/noble 6.7.2-1.1 amd64
+  CLSQL database backend, MySQL
+
+cl-sql-tests/noble,noble 6.7.2-1.1 all
+  Testing suite for CLSQL
+
+collectd-core/noble 5.12.0-17.1build2 amd64
+  statistics collection and monitoring daemon (core system)
+
+coturn/noble 4.6.1-1build4 amd64
+  TURN and STUN server for VoIP
+
+courier-authlib-mysql/noble 0.71.4-1build3 amd64
+  MySQL support for the Courier authentication library
+
+cqrlog/noble 2.5.2-3ubuntu2 amd64
+  Advanced logging program for hamradio operators
+
+cqrlog-data/noble,noble 2.5.2-3ubuntu2 all
+  Advanced logging program for hamradio operators (data files)
+
+cvm-mysql/noble 0.97-3.1build1 amd64
+  Credential Validation Modules (MySQL)
+
+dbconfig-common/noble,noble 2.0.24 all
+  framework that helps packages to manage databases
+
+dbconfig-mysql/noble,noble 2.0.24 all
+  dbconfig-common MySQL/MariaDB support
+
+dbf2mysql/noble 1.14a-7 amd64
+  xBase to MySQL or vice versa
+
+default-libmysqlclient-dev/noble 1.1.0build1 amd64
+  MySQL database development files (metapackage)
+
+default-mysql-client/noble,noble 1.1.0build1 all
+  MySQL database client binaries (metapackage)
+
+default-mysql-client-core/noble,noble 1.1.0build1 all
+  MySQL database core client binaries (metapackage)
+
+default-mysql-server/noble,noble 1.1.0build1 all
+  MySQL database server binaries and system database setup (metapackage)
+
+default-mysql-server-core/noble,noble 1.1.0build1 all
+  MySQL database server binaries (metapackage)
+
+dish/noble,noble 1.19.1-1.1 all
+  diligence/distributed shell for parallel sysadmin
+
+dovecot-mysql/noble-updates,noble-security 1:2.3.21+dfsg1-2ubuntu6 amd64
+  secure POP3/IMAP server - MySQL support
+
+elpa-emacsql/noble,noble 3.1.1+git20230417.6401226+ds-1 all
+  high level SQL database frontend for Emacs (abstractions)
+
+elpa-emacsql-mysql/noble,noble 3.1.1+git20230417.6401226+ds-1 all
+  high level SQL database frontend for Emacs (MySQL backend)
+
+elpa-emacsql-psql/noble,noble 3.1.1+git20230417.6401226+ds-1 all
+  high level SQL database frontend for Emacs (PostgreSQL backend)
+
+elpa-emacsql-sqlite/noble 3.1.1+git20230417.6401226+ds-1 amd64
+  high level SQL database frontend for Emacs (SQLite backend)
+
+erlang-p1-mysql/noble 1.0.22-1 amd64
+  pure Erlang MySQL driver
+
+exim4-daemon-heavy/noble-updates 4.97-4ubuntu4.2 amd64
+  Exim MTA (v4) daemon with extended features, including exiscan-acl
+
+ferret/noble,noble 0.7-3 all
+  CASE tool for data model editing
+
+fp-units-db/noble 3.2.2+dfsg-32 amd64
+  Free Pascal - database-library units dependency package
+
+fp-units-db-3.2.2/noble 3.2.2+dfsg-32 amd64
+  Free Pascal - database-library units
+
+fp-units-win-db/noble 3.2.2+dfsg-20 amd64
+  Free Pascal - database-library units dependency package
+
+fp-units-win-db-3.2.2/noble 3.2.2+dfsg-20 amd64
+  Free Pascal - database-library units
+
+freeradius-mysql/noble-updates 3.2.5+dfsg-3~ubuntu24.04.2 amd64
+  MySQL module for FreeRADIUS server
+
+gambas3/noble,noble 3.19.0-2ubuntu10 all
+  Complete visual development environment for Gambas
+
+gambas3-gb-db-mysql/noble 3.19.0-2ubuntu10 amd64
+  MySQL driver for the Gambas database
+
+gambas3-gb-mysql/noble 3.19.0-2ubuntu10 amd64
+  Gambas MySQL component
+
+gnokii-smsd-mysql/noble 0.6.31+dfsg-5.1ubuntu3 amd64
+  SMSD plugin for MySQL storage backend
+
+gnuais/noble 0.3.3-9build4 amd64
+  AIS receiver which uses the discriminator output of VHF receivers
+
+goiardi/noble-updates,noble-security 0.11.10-2ubuntu0.24.04.2 amd64
+  Chef server written in Go
+
+goiardi-doc/noble-updates,noble-updates,noble-security,noble-security 0.11.10-2ubuntu0.24.04.2 all
+  Documentation for Goiardi
+
+golang-ariga-atlas-dev/noble,noble 0.7.2-2 all
+  manage your database schemas with Atlas (library)
+
+golang-entgo-ent-dev/noble,noble 0.11.3-4ubuntu1 all
+  entity framework for Go
+
+golang-github-boltdb-bolt-dev/noble,noble 1.3.1-7 all
+  low-level key/value database for Go
+
+golang-github-coreos-bbolt-dev/noble,noble 1.3.8-1 all
+  low-level key/value database for Go, especially CoreOS's etcd
+
+golang-github-ctdk-goiardi-dev/noble-updates,noble-updates,noble-security,noble-security 0.11.10-2ubuntu0.24.04.2 all
+  Golang library to interact with a chef server
+
+golang-github-go-macaron-session-dev/noble,noble 0.0~git20151014.0.66031fc-2 all
+  session management middleware for Macaron
+
+golang-github-go-sql-driver-mysql-dev/noble,noble 1.7.1-2 all
+  MySQL-Driver for Go's database/sql package
+
+golang-github-go-xorm-builder-dev/noble,noble 0.3.3-3.1 all
+  SQL builder for XORM written in Go
+
+golang-github-go-xorm-core-dev/noble,noble 0.6.3-1 all
+  lightweight wrapper of database/sql
+
+golang-github-ngaut-sync2-dev/noble,noble 0.0~git20141008.0.7a24ed7-9 all
+  Additional synchronization primitives extracted from Vitess
+
+golang-github-rluisr-mysqlrouter-go-dev/noble,noble 1.2.0-2 all
+  client for mysql-router (library)
+
+golang-github-rubenv-sql-migrate-dev/noble-updates,noble-updates,noble-security,noble-security 0.0~git20191213.0633851-3ubuntu0.24.04.2 all
+  SQL schema migration tool for Go (library)
+
+golang-github-skeema-mybase-dev/noble,noble 1.0.17-1 all
+  CLI framework with MySQL-like option handling (library)
+
+golang-github-smallstep-nosql-dev/noble,noble 0.3.8-2 all
+  abstraction layer for data persistency written in golang
+
+golang-github-vividcortex-mysqlerr-dev/noble,noble 0.0~git20210426.69f897f-1 all
+  MySQL Server Error Constants
+
+golang-github-ziutek-mymysql-dev/noble,noble 1.5.4+git20170206.23.0582bcf-2 all
+  MySQL Client API
+
+golang-gopkg-testfixtures.v2-dev/noble,noble 2.2.0-2 all
+  Rails-like test fixtures for Go
+
+groonga-normalizer-mysql/noble 1.2.3-3build1 amd64
+  MySQL derived normalizer for Groonga
+
+hashcat/noble 6.2.6+ds1-1build2 amd64
+  World's fastest and most advanced password recovery utility
+
+hibiscus/noble,noble 2.10.15+dfsg-1 all
+  Java online banking client using the HBCI standard
+
+hibiscus-doc/noble,noble 2.10.15+dfsg-1 all
+  Java online banking client using the HBCI standard - documentation package
+
+homer-api-mysql/noble 5.0.6+dfsg2-3.2 amd64
+  HOMER Capture Node REST API
+
+hoteldruid/noble,noble 3.0.6-1 all
+  web-based property management system for hotels or B&Bs
+
+hydra/noble 9.5-1build3 amd64
+  very fast network logon cracker
+
+hydra-gtk/noble 9.5-1build3 amd64
+  very fast network logon cracker - GTK+ based GUI
+
+icinga2-ido-mysql/noble 2.14.2-1build2 amd64
+  host and network monitoring system - MySQL support
+
+irssi-scripts/noble,noble 20231031 all
+  collection of scripts for irssi
+
+kamailio-mysql-modules/noble 5.7.4-1build7 amd64
+  MySQL database connectivity module for Kamailio
+
+kannel/noble 1.4.5-16ubuntu1 amd64
+  WAP and SMS gateway
+
+kbtin/noble 2.1-2build2 amd64
+  tintin++ style text-based MUD client
+
+kea/noble-updates,noble-updates 2.4.1-3build3.1 all
+  DHCP server [meta]
+
+kea-dhcp4-server/noble-updates 2.4.1-3build3.1 amd64
+  IPv4 DHCP server
+
+kea-dhcp6-server/noble-updates 2.4.1-3build3.1 amd64
+  IPv6 DHCP server
+
+kexi-mysql-driver/noble 1:3.2.0-3build5 amd64
+  MySQL support for kexi
+
+lcmaps-plugins-jobrep-admin/noble,noble 1.5.7-1 all
+  Jobrepository database setup tools
+
+libapache2-mod-log-slow/noble 1.0.8-3build1 amd64
+  Apache module for logging of slow requests handling
+
+libapache2-mod-log-sql/noble 1.100-16.3build4 amd64
+  Use SQL to store/write your Apache queries logs - Base
+
+libapache2-mod-log-sql-dbi/noble 1.100-16.3build4 amd64
+  Use SQL to store/write your Apache queries logs - DBI interface
+
+libapache2-mod-log-sql-mysql/noble 1.100-16.3build4 amd64
+  Use SQL to store/write your Apache queries logs - MySQL interface
+
+libaprutil1-dbd-mysql/noble 1.6.3-1.1ubuntu7 amd64
+  Apache Portable Runtime Utility Library - MySQL Driver
+
+libcgi-application-plugin-ratelimit-perl/noble,noble 1.0-4 all
+  Perl module for limiting the runmode call rate per user
+
+libcgi-session-expiresessions-perl/noble,noble 1.14-1 all
+  automatic deletion of expired CGI sessions
+
+libclass-dbi-loader-perl/noble,noble 0.34-4 all
+  Perl module for dynamic definition of Class::DBI sub classes
+
+libclass-dbi-mysql-perl/noble,noble 1.00-5 all
+  extensions to Class::DBI for MySQL
+
+libclass-dbi-perl/noble,noble 3.0.17-5 all
+  convenient abstraction layer to a database
+
+libcommons-csv-java/noble,noble 1.9.0-1 all
+  Library for reading and writing CSV files
+
+libcppdb-dev/noble 0.3.1+dfsg-9.1ubuntu2 amd64
+  SQL Connectivity Library (development files)
+
+libcppdb-mysql0t64/noble 0.3.1+dfsg-9.1ubuntu2 amd64
+  SQL Connectivity Library (MySQL backend)
+
+libcppdb-odbc0t64/noble 0.3.1+dfsg-9.1ubuntu2 amd64
+  SQL Connectivity Library (odbc backend)
+
+libcppdb-postgresql0t64/noble 0.3.1+dfsg-9.1ubuntu2 amd64
+  SQL Connectivity Library (PostgreSQL backend)
+
+libcppdb-sqlite3-0t64/noble 0.3.1+dfsg-9.1ubuntu2 amd64
+  SQL Connectivity Library (sqlite3 backend)
+
+libcppdb0t64/noble 0.3.1+dfsg-9.1ubuntu2 amd64
+  SQL Connectivity Library (core library)
+
+libcrypt-mysql-perl/noble 0.04-7build4 amd64
+  Perl module to emulate the MySQL PASSWORD() function
+
+libdatetime-format-dbi-perl/noble,noble 0.041-3 all
+  abstraction layer for DateTime over some database vendors
+
+libdatetime-format-mysql-perl/noble,noble 0.08-1 all
+  module to parse and format MySQL dates and times
+
+libdbd-mock-perl/noble,noble 1.59-1 all
+  Mock database driver for testing
+
+libdbd-mysql/noble 0.9.0-12 amd64
+  MySQL database server driver for libdbi
+
+libdbd-mysql-perl/noble 4.052-1ubuntu3 amd64
+  Perl5 database interface to the MariaDB/MySQL database
+
+libdbd-sqlite3-perl/noble 1.74-1build3 amd64
+  Perl DBI driver with a self-contained RDBMS
+
+libdbi-perl/noble 1.643-4build3 amd64
+  Perl Database Interface (DBI)
+
+libdbix-admin-createtable-perl/noble,noble 2.11-2 all
+  DBI extension for manipulating tables
+
+libdbix-bulkloader-mysql-perl/noble,noble 1.006-2 all
+  Perl extension for MySQL bulk loading
+
+libdbix-class-perl/noble,noble 0.082843-1 all
+  extensible and flexible object <-> relational mapper
+
+libdbix-class-schema-loader-perl/noble,noble 0.07052-1 all
+  module to automate definition of a DBIx::Class::Schema
+
+libdbix-datasource-perl/noble,noble 0.02-6 all
+  database-independent module to create and drop functions
+
+libdbix-dbschema-perl/noble,noble 0.47-1 all
+  Perl module to manipulate schemas independently of databases
+
+libdbix-easy-perl/noble,noble 0.21-1.1 all
+  Easy to Use DBI Interface
+
+libdbix-fulltextsearch-perl/noble,noble 0.73-12 all
+  Indexing documents with MySQL as storage
+
+libdbix-introspector-perl/noble,noble 0.001005-2 all
+  module to detect what database code is connected to
+
+libeigenbase-farrago-java/noble,noble 0.9.0-3 all
+  Java framework for constructing RDBMS services
+
+libgda-5.0-mysql/noble 5.2.10-4.1build1 amd64
+  MySQL provider for libgda database abstraction library
+
+libghc-hdbc-dev/noble 2.4.0.4-2build1 amd64
+  Haskell Database Connectivity, GHC package
+
+libghc-hdbc-doc/noble,noble 2.4.0.4-2build1 all
+  Haskell Database Connectivity, Documentation
+
+libghc-hdbc-sqlite3-dev/noble 2.3.3.1-10build1 amd64
+  Sqlite v3 HDBC (Haskell Database Connectivity) Driver for GHC
+
+libghc-hdbc-sqlite3-doc/noble,noble 2.3.3.1-10build1 all
+  Sqlite v3 HDBC (Haskell Database Connectivity) Documentation
+
+libghc-hdbc-sqlite3-prof/noble 2.3.3.1-10build1 amd64
+  Sqlite v3 HDBC Driver for GHC; profiling libraries
+
+libglpk40/noble 5.0-1build2 amd64
+  linear programming kit with integer (MIP) support
+
+libhoel-dev/noble 1.4.29-1.1build2 amd64
+  database abstraction library written in C - development
+
+libhoel1.4t64/noble 1.4.29-1.1build2 amd64
+  database abstraction library written in C
+
+libjunixsocket-java/noble,noble 2.6.1-1 all
+  Unix Domain Sockets in Java
+
+libjunixsocket-jni/noble 2.6.1-1 amd64
+  Unix Domain Sockets in Java (JNI library)
+
+libkdb3-driver-mysql/noble 3.2.0-6build6 amd64
+  MySQL driver for KDb
+
+libkiokudb-backend-dbi-perl/noble,noble 1.23-3 all
+  DBI backend for KiokuDB
+
+libmariadb-dev/noble-updates,noble-security 1:10.11.8-0ubuntu0.24.04.1 amd64
+  MariaDB database development files
+
+libmariadb-dev-compat/noble-updates,noble-security 1:10.11.8-0ubuntu0.24.04.1 amd64
+  MariaDB Connector/C, compatibility symlinks
+
+libmariadb-java/noble,noble 2.7.6-1 all
+  Java database driver for MariaDB and MySQL
+
+libmysql++-dev/noble 3.2.5-2.3 amd64
+  MySQL C++ library bindings (development)
+
+libmysql++-doc/noble,noble 3.2.5-2.3 all
+  MySQL C++ library bindings (documentation and examples)
+
+libmysql++3t64/noble 3.2.5-2.3 amd64
+  MySQL C++ library bindings (runtime)
+
+libmysql-diff-perl/noble,noble 0.60-1 all
+  module for comparing the table structure of two MySQL databases
+
+libmysql-ocaml/noble 1.2.4-2ubuntu2 amd64
+  OCaml bindings for MySql (runtime package)
+
+libmysql-ocaml-dev/noble 1.2.4-2ubuntu2 amd64
+  OCaml bindings for MySql (development package)
+
+libmysqlclient-dev/noble-updates,noble-security 8.0.41-0ubuntu0.24.04.1 amd64
+  MySQL database development files
+
+libmysqlclient21/noble-updates,noble-security 8.0.41-0ubuntu0.24.04.1 amd64
+  MySQL database client library
+
+libmysqlcppconn-dev/noble 1.1.12-4.1ubuntu2 amd64
+  MySQL Connector for C++ (development files)
+
+libmysqlcppconn7t64/noble 1.1.12-4.1ubuntu2 amd64
+  MySQL Connector for C++ (library)
+
+libodb-mysql-2.4t64/noble 2.4.0-5.1ubuntu2 amd64
+  ODB Runtime Library for MySQL
+
+libodb-mysql-dev/noble 2.4.0-5.1ubuntu2 amd64
+  ODB Runtime Library for MySQL (development)
+
+libopendbx1-mysql/noble 1.4.6-17 amd64
+  MySQL backend for OpenDBX
+
+libpam-mysql/noble 0.8.2-2build2 amd64
+  PAM module interfacing with MySQL databases
+
+libphp-adodb/noble,noble 5.21.4-1 all
+  ADOdb is a PHP database abstraction layer library
+
+libpoco-doc/noble,noble 1.3.6-2 all
+  Documentation for POCO - The C++ Portable Components
+
+libpocodatamysql80t64/noble 1.11.0-4.1build2 amd64
+  C++ Portable Components (POCO) Data MySQL library
+
+libpreludedb7-mysql/noble 5.2.0-2.2build2 amd64
+  Security Information and Events Management System [ MySQL library ]
+
+libqt5sql5-mysql/noble 5.15.13+dfsg-1ubuntu1 amd64
+  Qt 5 MySQL database driver
+
+libqt6sql6-mysql/noble 6.4.2+dfsg-21.1build5 amd64
+  Qt 6 MySQL database driver
+
+librdf-storage-mysql/noble 1.0.17-3.1ubuntu3 amd64
+  RDF library, MySQL backend
+
+librdf-trine-perl/noble,noble 1.019-4 all
+  RDF Framework for Perl
+
+librdf0t64/noble,now 1.0.17-3.1ubuntu3 amd64 [installed,automatic]
+  Redland Resource Description Framework (RDF) library
+
+libreoffice-base-drivers/noble-updates,noble-security 4:24.2.7-0ubuntu0.24.04.3 amd64
+  Database connectivity drivers for LibreOffice
+
+libreoffice-sdbc-mysql/noble-updates,noble-security 4:24.2.7-0ubuntu0.24.04.3 amd64
+  MariaDB/MySQL SDBC driver for LibreOffice
+
+librestfuldb-perl/noble,noble 0.16.0+dfsg-1 all
+  Web frontend for relational databases - Perl modules
+
+librust-mysqlclient-sys-dev/noble 0.2.5-2 amd64
+  Auto-generated rust bindings for libmysqlclient - Rust source code
+
+librust-sqlx-dev/noble 0.7.3-3 amd64
+  🧰 The Rust SQL Toolkit - Rust source code
+
+librust-sqlx-mysql-dev/noble 0.7.3-1 amd64
+  MySQL driver implementation for SQLx - Rust source code
+
+libsasl2-modules-sql/noble-updates 2.1.28+dfsg1-5ubuntu3.1 amd64
+  Cyrus SASL - pluggable authentication modules (SQL)
+
+libsoci-mysql4.0/noble 4.0.3-1build1 amd64
+  C++ Database Access Library (MySQL backend)
+
+libsql-reservedwords-perl/noble,noble 0.8-3 all
+  Perl extension that indicates if words are reserved by SQL
+
+libsqlclient-dev/noble 1.9.0-3build1 amd64
+  SQL client library for GNUstep (development files)
+
+libsqlclient1.9/noble 1.9.0-3build1 amd64
+  SQL client library for GNUstep (runtime library)
+
+libsqlite3-mod-impexp/noble 0.99991-1build1 amd64
+  SQLite3 extension module for SQL script, XML, JSON and CSV import/export
+
+libtango-dev/noble 9.5.0+dfsg1-1.1build1 amd64
+  TANGO distributed control system - development library
+
+libtango-doc/noble,noble 9.5.0+dfsg1-1.1build1 all
+  TANGO distributed control system - documentation
+
+libtango95t64/noble 9.5.0+dfsg1-1.1build1 amd64
+  TANGO distributed control system - shared library
+
+libterralib-dev/noble 4.3.0+dfsg.2-12.2build1 amd64
+  C++ library for Geographical Information Systems -- development package
+
+libterralib-doc/noble,noble 4.3.0+dfsg.2-12.2build1 all
+  C++ library for Geographical Information Systems -- documentation package
+
+libterralib3t64/noble 4.3.0+dfsg.2-12.2build1 amd64
+  C++ library for Geographical Information Systems
+
+libtext-tabulardisplay-perl/noble,noble 1.38-3 all
+  Perl module to display text as a formatted table
+
+libtime-piece-mysql-perl/noble,noble 0.06-2.1 all
+  module adding MySQL-specific methods to Time::Piece
+
+libtntdb-dev/noble 1.4-1ubuntu2 amd64
+  Development headers for tntdb
+
+libtntdb5/noble 1.4-1ubuntu2 amd64
+  C++ class library for easy database access
+
+libur-perl/noble,noble 0.470+ds-2 all
+  object/relation mapper library
+
+libuser-simple-perl/noble,noble 1.45-3 all
+  module for simple user sessions management
+
+libworkflow-dev/noble 0.11.2-1.1build2 amd64
+  Parallel computing and asynchronous web server engine development files
+
+libworkflow0t64/noble 0.11.2-1.1build2 amd64
+  Parallel computing and asynchronous web server engine
+
+libzdb-dev/noble 3.1-0.3ubuntu2 amd64
+  Zild Database Library [devel]
+
+libzdb11t64/noble 3.1-0.3ubuntu2 amd64
+  Zild Database Library [runtime]
+
+lighttpd-modules-mysql/noble 1.4.74-1ubuntu3 amd64
+  MySQL-based modules for lighttpd
+
+lua-dbi-mysql/noble 0.7.2-4ubuntu2 amd64
+  DBI library for the Lua language, MySQL backend
+
+lua-dbi-mysql-dev/noble 0.7.2-4ubuntu2 amd64
+  DBI library for the Lua language, MySQL development files
+
+lua-sql-mysql/noble 2.6.0-2 amd64
+  luasql library for the Lua language
+
+lua-sql-mysql-dev/noble 2.6.0-2 amd64
+  luasql development files for the Lua language
+
+mailman3/noble-updates,noble-updates 3.3.8-3.1ubuntu0.1 all
+  Mailing list management system
+
+mailman3-web/noble,noble 0+20200530-2.1 all
+  Django project integrating Mailman3 Postorius and HyperKitty
+
+mariadb-client/noble-updates,noble-security 1:10.11.8-0ubuntu0.24.04.1 amd64
+  MariaDB database client binaries
+
+mariadb-common/noble-updates,noble-updates,noble-security,noble-security 1:10.11.8-0ubuntu0.24.04.1 all
+  MariaDB database common files (e.g. /etc/mysql/mariadb.conf.d/)
+
+mariadb-plugin-connect/noble-updates,noble-security 1:10.11.8-0ubuntu0.24.04.1 amd64
+  Connect storage engine for MariaDB server
+
+mha4mysql-manager/noble,noble 0.58-2 all
+  Master High Availability Manager and Tools for MySQL, Manager Package
+
+mha4mysql-node/noble,noble 0.58-2 all
+  Master High Availability Manager and Tools for MySQL, Node Package
+
+monitoring-plugins-contrib/noble 45.20231212ubuntu2 amd64
+  Plugins for nagios compatible monitoring systems
+
+monitoring-plugins-standard/noble 2.3.5-1ubuntu3 amd64
+  Plugins for nagios compatible monitoring systems (standard)
+
+mycli/noble,noble 1.27.0-1 all
+  CLI for MySQL/MariaDB with auto-completion and syntax highlighting
+
+mydumper/noble 0.10.1-1ubuntu3 amd64
+  High-performance MySQL backup tool
+
+mydumper-doc/noble,noble 0.10.1-1ubuntu3 all
+  High-performance MySQL backup tool - documentation
+
+mylvmbackup/noble,noble 0.15-1.3 all
+  quickly creating backups of MySQL server's data files
+
+mypager/noble,noble 0.6.3-1 all
+  pager for MySQL/PostgreSQL command line clients
+
+mysql-client/noble-updates,noble-updates,noble-security,noble-security 8.0.41-0ubuntu0.24.04.1 all
+  MySQL database client (metapackage depending on the latest version)
+
+mysql-client-8.0/noble-updates,noble-security 8.0.41-0ubuntu0.24.04.1 amd64
+  MySQL database client binaries
+
+mysql-client-core-8.0/noble-updates,noble-security 8.0.41-0ubuntu0.24.04.1 amd64
+  MySQL database core client binaries
+
+mysql-common/noble,noble 5.8+1.1.0build1 all
+  MySQL database common files, e.g. /etc/mysql/my.cnf
+
+mysql-router/noble-updates,noble-security 8.0.41-0ubuntu0.24.04.1 amd64
+  route connections from MySQL clients to MySQL servers
+
+mysql-sandbox/noble,noble 3.2.05-1build1 all
+  Install and set up one or more MySQL server instances easily
+
+mysql-server/noble-updates,noble-updates,noble-security,noble-security 8.0.41-0ubuntu0.24.04.1 all
+  MySQL database server (metapackage depending on the latest version)
+
+mysql-server-8.0/noble-updates,noble-security 8.0.41-0ubuntu0.24.04.1 amd64
+  MySQL database server binaries and system database setup
+
+mysql-server-core-8.0/noble-updates,noble-security 8.0.41-0ubuntu0.24.04.1 amd64
+  MySQL database server binaries
+
+mysql-shell/noble 8.0.36+dfsg-0ubuntu1 amd64
+  MySQL Shell (part of MySQL Server) 8.0
+
+mysql-source-8.0/noble-updates,noble-security 8.0.41-0ubuntu0.24.04.1 amd64
+  MySQL source
+
+mysql-testsuite/noble-updates,noble-updates,noble-security,noble-security 8.0.41-0ubuntu0.24.04.1 all
+  MySQL regression tests
+
+mysql-testsuite-8.0/noble-updates,noble-security 8.0.41-0ubuntu0.24.04.1 amd64
+  MySQL 8.0 testsuite
+
+mysqltcl/noble 3.052-4ubuntu1 amd64
+  interface to the MySQL database for the Tcl language
+
+mysqltuner/noble,noble 2.5.2-2 all
+  high-performance MySQL tuning script
+
+mythexport/noble 2.2.4-0ubuntu7 amd64
+  Export MythTV recording to portable media players
+
+mythtv-database/noble,noble 2:34.0+fixes.20240210.e3e165a1-0ubuntu6 all
+  Personal video recorder application (database)
+
+node-mysql/noble,noble 2.18.1+~2.3.2-2 all
+  MySQL client implementation for Node.js
+
+note/noble,noble 1.3.26-3 all
+  small program managing notes from commandline
+
+nova-ajax-console-proxy/noble-updates,noble-updates,noble-security,noble-security 3:29.0.1-0ubuntu1.4 all
+  OpenStack Compute - AJAX console proxy - transitional package
+
+nova-api/noble-updates,noble-updates,noble-security,noble-security 3:29.0.1-0ubuntu1.4 all
+  OpenStack Compute - API frontend
+
+nova-cells/noble-updates,noble-updates,noble-security,noble-security 3:29.0.1-0ubuntu1.4 all
+  Openstack Compute - cells
+
+nova-common/noble-updates,noble-updates,noble-security,noble-security 3:29.0.1-0ubuntu1.4 all
+  OpenStack Compute - common files
+
+nova-compute/noble-updates,noble-updates,noble-security,noble-security 3:29.0.1-0ubuntu1.4 all
+  OpenStack Compute - compute node base
+
+nova-compute-kvm/noble-updates,noble-updates,noble-security,noble-security 3:29.0.1-0ubuntu1.4 all
+  OpenStack Compute - compute node (KVM)
+
+nova-compute-libvirt/noble-updates,noble-updates,noble-security,noble-security 3:29.0.1-0ubuntu1.4 all
+  OpenStack Compute - compute node libvirt support
+
+nova-compute-lxc/noble-updates,noble-updates,noble-security,noble-security 3:29.0.1-0ubuntu1.4 all
+  OpenStack Compute - compute node (LXC)
+
+nova-compute-qemu/noble-updates,noble-updates,noble-security,noble-security 3:29.0.1-0ubuntu1.4 all
+  OpenStack Compute - compute node (QEmu)
+
+nova-compute-vmware/noble-updates,noble-updates,noble-security,noble-security 3:29.0.1-0ubuntu1.4 all
+  OpenStack Compute - compute node (VMware)
+
+nova-compute-xen/noble-updates,noble-updates,noble-security,noble-security 3:29.0.1-0ubuntu1.4 all
+  OpenStack Compute - compute node (Xen)
+
+nova-conductor/noble-updates,noble-updates,noble-security,noble-security 3:29.0.1-0ubuntu1.4 all
+  OpenStack Compute - conductor service
+
+nova-doc/noble-updates,noble-updates,noble-security,noble-security 3:29.0.1-0ubuntu1.4 all
+  OpenStack Compute - documentation
+
+nova-novncproxy/noble-updates,noble-updates,noble-security,noble-security 3:29.0.1-0ubuntu1.4 all
+  OpenStack Compute - NoVNC proxy
+
+nova-scheduler/noble-updates,noble-updates,noble-security,noble-security 3:29.0.1-0ubuntu1.4 all
+  OpenStack Compute - virtual machine scheduler
+
+nova-serialproxy/noble-updates,noble-updates,noble-security,noble-security 3:29.0.1-0ubuntu1.4 all
+  OpenStack Compute - serial proxy
+
+nova-spiceproxy/noble-updates,noble-updates,noble-security,noble-security 3:29.0.1-0ubuntu1.4 all
+  OpenStack Compute - spice html5 proxy
+
+nova-volume/noble-updates,noble-updates,noble-security,noble-security 3:29.0.1-0ubuntu1.4 all
+  OpenStack Compute - storage
+
+oar-server-mysql/noble 2.5.10-1 amd64
+  OAR batch scheduler MySQL server backend package
+
+oar-user-mysql/noble 2.5.10-1 amd64
+  OAR batch scheduler MySQL user backend package
+
+omnidb-common/noble,noble 3.0.3b+ds-4 all
+  Web tool for database management (shared files)
+
+omnidb-server/noble,noble 3.0.3b+ds-4 all
+  Web tool for database management
+
+opendnssec-enforcer/noble,noble 1:2.1.13-1.1 all
+  tool to prepare DNSSEC keys (common package)
+
+opendnssec-enforcer-mysql/noble 1:2.1.13-1.1 amd64
+  tool to prepare DNSSEC keys (MySQL backend)
+
+opensmtpd-extras/noble 6.7.1-2build1 amd64
+  addons for the OpenSMTPD SMTP server
+
+orthanc-mysql/noble 5.0+dfsg-1build3 amd64
+  Plugins to use MySQL or MariaDB as a database back-end to Orthanc
+
+parser3-mysql/noble 10.8-3 amd64
+  MySQL driver for Parser 3
+
+patator/noble,noble 1.0-2 all
+  Multi-purpose brute-forcer
+
+pdns-backend-mysql/noble 4.8.3-4build3 amd64
+  MySQL backend for PowerDNS
+
+peewee/noble,noble 3.17.0+dfsg-1build1 all
+  Command line Tools for peewee (Python 3)
+
+percona-toolkit/noble,noble 3.2.1-1 all
+  Command-line tools for MySQL and system tasks
+
+percona-xtrabackup/noble 8.0.35-30-0ubuntu5 amd64
+  Open source backup tool for InnoDB and XtraDB
+
+perdition/noble 2.2-3.3ubuntu3 amd64
+  POP3 and IMAP4 Proxy server
+
+perdition-mysql/noble 2.2-3.3ubuntu3 amd64
+  Library to allow perdition to access MySQL based popmaps
+
+pgloader/noble 3.6.10-1build2 amd64
+  extract, transform and load data into PostgreSQL
+
+php-db/noble,noble 1.11.0-1ubuntu1 all
+  Database Abstraction Layer
+
+php-malkusch-lock/noble,noble 2.2.1+ds-1 all
+  mutex library for exclusive code execution
+
+php-mariadb-mysql-kbs/noble,noble 1.2.14-1 all
+  Knowledge base about MariaDB and MySQL server variables
+
+php-mdb2-driver-mysql/noble,noble 1.5.0b4-2.1 all
+  mysql MDB2 driver
+
+php-mysql/noble,noble 2:8.3+93ubuntu2 all
+  MySQL module for PHP [default]
+
+php-phpmyadmin-sql-parser/noble,noble 5.8.2-1 all
+  validating SQL lexer and parser
+
+php-pinba/noble 1.1.2-16ubuntu1 amd64
+  Pinba module for PHP
+
+php-pinba-all-dev/noble,noble 1.1.2-16ubuntu1 all
+  Pinba module for PHP
+
+php-symfony-polyfill-php81/noble,noble 1.28.0-1 all
+  Symfony polyfill backporting some PHP 8.1+ features to lower PHP versions
+
+php8.3-mysql/noble-updates,noble-security 8.3.6-0ubuntu0.24.04.3 amd64
+  MySQL module for PHP
+
+php8.3-pinba/noble 1.1.2-16ubuntu1 amd64
+  Pinba module for PHP
+
+phpmyadmin/noble,noble 4:5.2.1+dfsg-3 all
+  MySQL web administration tool
+
+pike8.0-core/noble 8.0.1738-1.3ubuntu1 amd64
+  Powerful interpreted programming language
+
+pike8.0-mysql/noble 8.0.1738-1.3ubuntu1 amd64
+  MySQL modules for Pike
+
+pnopaste/noble,noble 1.8-3 all
+  Pastebin with syntax highlighting
+
+pnopaste-cli/noble,noble 1.8-3 all
+  Pastebin with syntax highlighting (cli tool)
+
+postfix-gld/noble 1.7-9 amd64
+  greylisting daemon for postfix, written in C, uses MySQL
+
+postfix-mysql/noble 3.8.6-1build2 amd64
+  MySQL map support for Postfix
+
+postgresql-16-mysql-fdw/noble 2.9.1-2 amd64
+  Postgres 16 Foreign Data Wrapper for MySQL
+
+proftpd-mod-mysql/noble-updates,noble-security 1.3.8.b+dfsg-1ubuntu0.1 amd64
+  Versatile, virtual-hosting FTP daemon - MySQL module
+
+prometheus-mysqld-exporter/noble-updates,noble-security 0.15.0-2ubuntu0.24.04.2 amd64
+  Prometheus exporter for MySQL server
+
+prometheus-sql-exporter/noble-updates,noble-security 0.4.5-1ubuntu0.24.04.2 amd64
+  Flexible SQL Exporter for Prometheus
+
+puppet-module-puppetlabs-mysql/noble,noble 8.1.0-7ubuntu1 all
+  Puppet module for MySQL
+
+pure-ftpd-mysql/noble 1.0.50-2.2build2 amd64
+  Secure and efficient FTP server with MySQL user authentication
+
+python-aiomysql-doc/noble,noble 0.1.1-2 all
+  library for accessing a MySQL database from the asyncio (common documentation)
+
+python-django-tree-queries-doc/noble,noble 0.16.1-1 all
+  Adjacency-list trees for Django (Documentation)
+
+python-migrate-doc/noble,noble 0.13.0-0ubuntu2 all
+  Database schema migration for SQLAlchemy - doc
+
+python-novaclient-doc/noble,noble 2:18.5.0-0ubuntu1 all
+  client library for OpenStack Compute API - doc
+
+python-peewee-doc/noble,noble 3.17.0+dfsg-1build1 all
+  Documentation pyhton peewee simple ORM
+
+python-pymysql-doc/noble-updates,noble-updates,noble-security,noble-security 1.0.2-2ubuntu1.1 all
+  Pure-Python MySQL driver - doc
+
+python3-aiomysql/noble,noble 0.1.1-2 all
+  library for accessing a MySQL using asyncio (Python 3)
+
+python3-databases/noble,noble 0.8.0-1 all
+  async database support for Python's asyncio
+
+python3-django-tree-queries/noble,noble 0.16.1-1 all
+  Adjacency-list trees for Django (Python3 version)
+
+python3-ephemeral-port-reserve/noble,noble 1.1.4-2 all
+  binds to an ephemeral port, force it into the TIME_WAIT state, and unbind it
+
+python3-logilab-common/noble,noble 1.9.8-2 all
+  useful miscellaneous modules used by Logilab projects (Python3)
+
+python3-migrate/noble,noble 0.13.0-0ubuntu2 all
+  Database schema migration for SQLAlchemy - Python 3.x
+
+python3-mysql.connector/noble,noble 8.0.15-4 all
+  pure Python implementation of MySQL Client/Server protocol (Python3)
+
+python3-mysqldb/noble 1.4.6-2build3 amd64
+  Python interface to MySQL
+
+python3-nova/noble-updates,noble-updates,noble-security,noble-security 3:29.0.1-0ubuntu1.4 all
+  OpenStack Compute Python 3 libraries
+
+python3-novaclient/noble,noble 2:18.5.0-0ubuntu1 all
+  client library for OpenStack Compute API - 3.x
+
+python3-ormar/noble,noble 0.12.2-1 all
+  async ORM with fastapi in mind and pydantic validation
+
+python3-os-apply-config/noble,noble 13.1.0-2 all
+  Creates config files out of cloud metadata
+
+python3-peewee/noble 3.17.0+dfsg-1build1 amd64
+  Simple ORM for PostgreSQL, MySQL and SQLite (Python 3)
+
+python3-pymysql/noble-updates,noble-updates,noble-security,noble-security 1.0.2-2ubuntu1.1 all
+  Pure-Python MySQL Driver - Python 3.x
+
+python3-rdflib-sqlalchemy/noble,noble 0.5.4-2 all
+  RDFLib store using SQLAlchemy dbapi as back-end
+
+python3-sqlalchemy-utc/noble,noble 0.14.0-2 all
+  SQLAlchemy type to store timezone aware datetime values
+
+python3-storm/noble 0.26-2build1 amd64
+  object-relational mapper (ORM) for Python 3
+
+python3-testing.mysqld/noble,noble 1.4.0-6 all
+  Python testing.* framework - MySQL helpers (Python 3)
+
+r-cran-dbi/noble,noble 1.2.2-1 all
+  GNU R package providing a generic database interface
+
+r-cran-rmysql/noble 0.10.27-1 amd64
+  GNU R package providing a DBI-compliant interface to MySQL
+
+r-cran-rodbc/noble 1.3-23-1 amd64
+  GNU R package for ODBC database access
+
+r-cran-sqldf/noble,noble 0.4-11-2 all
+  manipulate GNU R data frames using SQL
+
+recap/noble,noble 2.1.0-1 all
+  Generates reports of various information about the server
+
+request-tracker4/noble,noble 4.4.7+dfsg-1 all
+  extensible trouble-ticket tracking system
+
+request-tracker5/noble,noble 5.0.5+dfsg-2 all
+  extensible trouble-ticket tracking system
+
+resource-agents-extra/noble 1:4.13.0-1ubuntu4 amd64
+  Cluster Resource Agents
+
+restfuldb/noble,noble 0.16.0+dfsg-1 all
+  Web frontend for relational databases
+
+roundcube-mysql/noble,noble 1.6.6+dfsg-2 all
+  metapackage providing MySQL dependencies for RoundCube
+
+rsyslog/noble,now 8.2312.0-3ubuntu9 amd64 [installed,automatic]
+  reliable system and kernel logging daemon
+
+rsyslog-mysql/noble 8.2312.0-3ubuntu9 amd64
+  MySQL output plugin for rsyslog
+
+rt4-db-mysql/noble,noble 4.4.7+dfsg-1 all
+  MySQL database backend for request-tracker4
+
+rt4-db-sqlite/noble,noble 4.4.7+dfsg-1 all
+  SQLite database backend for request-tracker4
+
+rt5-db-mysql/noble,noble 5.0.5+dfsg-2 all
+  MySQL database backend for request-tracker5
+
+rt5-db-sqlite/noble,noble 5.0.5+dfsg-2 all
+  SQLite database backend for request-tracker5
+
+ruby-amazon-ec2/noble,noble 0.9.17-4 all
+  Ruby library for accessing Amazon EC2
+
+ruby-mysql2/noble 0.5.3-4ubuntu6 amd64
+  simple, fast MySQL library for Ruby
+
+ruby-peek-performance-bar/noble,noble 1.3.0-1.1 all
+  peek into MySQL queries made during your application's requests
+
+ruby-sequel/noble,noble 5.63.0-1 all
+  Simple, flexible, and powerful SQL database access toolkit for Ruby
+
+sagan/noble 1.2.0-1.2 amd64
+  Real-time System & Event Log Monitoring System
+
+sagan-rules/noble,noble 1:20170725-1.1 all
+  Real-time System & Event Log Monitoring System [rules]
+
+sequeler/noble 0.8.2-1build2 amd64
+  SQL client built in Vala and Gtk
+
+skeema/noble-updates,noble-security 1.11.1+ds-1ubuntu0.2 amd64
+  Schema management CLI for MySQL (program)
+
+slurm-wlm-mysql-plugin/noble 23.11.4-1.2ubuntu5 amd64
+  Slurm MySQL plugins
+
+slurm-wlm-mysql-plugin-dev/noble 23.11.4-1.2ubuntu5 amd64
+  Slurm MySQL plugins development files
+
+sphinxsearch/noble 2.2.11-8build1 amd64
+  Fast standalone full-text SQL search engine
+
+sql-migrate/noble-updates,noble-security 0.0~git20191213.0633851-3ubuntu0.24.04.2 amd64
+  SQL schema migration tool for Go (program)
+
+sqlgrey/noble,noble 1:1.8.0-5.1 all
+  Postfix Greylisting Policy Server
+
+sqlline/noble,noble 1.0.2-8 all
+  JDBC command-line utility for issuing SQL
+
+sympa/noble 6.2.70~dfsg-2 amd64
+  Modern mailing list manager
+
+sysbench/noble 1.0.20+ds-6build2 amd64
+  multi-threaded benchmark tool for database systems
+
+syslog-ng-mod-sql/noble 4.3.1-2build5 amd64
+  Enhanced system logging daemon (SQL plugin)
+
+tango-db/noble 9.5.0+dfsg1-1.1build1 amd64
+  TANGO distributed control system - database server
+
+tcl8.6-tdbc-mysql/noble 1.1.7-1ubuntu2 amd64
+  Tcl Database Connectivity
+
+tntdb-mysql5/noble 1.4-1ubuntu2 amd64
+  MySQL backend for tntdb database access library
+
+tsung/noble 1.7.0-3.1 amd64
+  distributed multi-protocol load testing tool
+
+ulogd2/noble 2.0.8-2build1 amd64
+  Netfilter Userspace Logging Daemon
+
+ulogd2-mysql/noble 2.0.8-2build1 amd64
+  MySQL extension to ulogd
+
+vbackup/noble,noble 1.0.1-1.1 all
+  modular backup utility
+
+voms-mysql-plugin/noble 3.1.7-2ubuntu4 amd64
+  VOMS server plugin for MySQL
+
+w1retap-mysql/noble 1.4.6-1ubuntu4 amd64
+  Data logger for 1-Wire weather sensors (MySQL plugin)
+
+yasat/noble,noble 848-1.2 all
+  simple stupid audit tool
+
+zoph/noble,noble 1.0.1-4 all
+  Web based digital image presentation and management system
+

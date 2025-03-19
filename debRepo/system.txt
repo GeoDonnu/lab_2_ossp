@@ -1,0 +1,2 @@
+Operating System: Ubuntu LTS 24.04.2
+Number of particions on the disk: 1
