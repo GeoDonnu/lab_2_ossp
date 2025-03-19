@@ -1,25 +1,22 @@
 #!/bin/bash
 
-#perevirka nayavnosti dvox parametriv
+#Zapyt shlyaxy do katalogy
 
-if [ "$#" -ne 2]; then
-	echo "Error: neobxidno vkazati dva parametra"
-	echo "Vikorystannya: $0 <katalog> <repository>"
-	exit 1
-fi
+read -p "Vvedit' shlyax do local katalogy: " LOCAL_DIR
 
-#Parametri
-LOCAL_DIR=$1
-REMOTE_REPO=$2
+#Zapyt do repository
 
-#PEREXID Y KATALOG
+read -p "Vvedit URL reposytory"
 
-cd "$LOCAL_DIR" || {echo "Error: ne vdalosya pereyti do katalogy $LOCAL_DIR"
+#Perexid y katalog
 
-#Init git
-git init
+cd "$LOCAL_DIR" || {echo "Error: ne vdalosya pereyti y katalog $LOCAL_DIR"
 
-#Dodavannya repo
+#Init local repo
+
+get init
+
+#dodavanya repo (yaksho nemae)
 
 git remote add origin "$REMOTE_REPO"
 
@@ -29,4 +26,4 @@ git commit -m "Initial commit"
 
 git push -u origin main
 
-echo "Code yspishno dodano do repository"
+echo "File bylo dodano"
